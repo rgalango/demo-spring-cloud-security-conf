@@ -1,0 +1,3 @@
+mdm:
+  wsdl:
+    endpointl: http://localhost:9900/ws/customers.wsdl
