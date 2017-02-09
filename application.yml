@@ -1,6 +1,6 @@
 mdm:
   wsdl:
-    endpointl: http://localhost:9900/ws/customers.wsdl
+    endpointl: http://localhost:9900/DataIntegrationService/WebService/Servicio_GestionClientes
 zull:
   server: localhost
   port: 8080  
